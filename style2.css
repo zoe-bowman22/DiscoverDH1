@@ -33,3 +33,9 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
+}
+
+p {
+    border: 1px solid black;
+    outline: 5px dotted black;
+}

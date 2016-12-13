@@ -4,6 +4,17 @@
     border: 1px solid gray;
 }
 
+
+background-color {
+
+    background-color: grey
+
+}
+
+span.highlight {
+    background-color: grey;
+}
+
 header, footer {
     padding: 1em;
     color: white;

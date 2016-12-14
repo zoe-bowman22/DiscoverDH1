@@ -50,3 +50,24 @@ p {
     border: 1px solid black;
     outline: 5px dotted black;
 }
+
+        a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration ;
+}
+a:active {
+    color: #08088A;
+    background-color: transparent;
+    text-decoration;
+}
